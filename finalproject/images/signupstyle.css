@@ -1,0 +1,89 @@
+body{
+    background-image:url(images/Top-Government-Schemes-For-Startups-in-India-Banner-1.png);
+    background-position: center;
+    font-family:'Roboto',sans-serif;
+    background-color: #141414;
+}
+.signup-box{
+   width: 650px;
+   height:650px;
+   margin:auto;
+   background-color: aliceblue; 
+   border-radius:3px;
+   font-weight: 500;
+   color: white;
+   background-color: black;
+   margin-top:7% ;
+
+}
+.signup-box h1{
+    color: orangered;
+    margin-bottom: 50px;
+} 
+.login-box{
+    width: 650px;
+    height: 450px;
+    margin:auto;
+    background-color: aliceblue; 
+    border-radius:3px;
+    background-color: black;
+    color: white;
+    margin-top: 5%;
+
+ }
+.login-box h1{
+    color: orangered;
+    margin-top: 100px ;
+   
+}
+
+h1{
+    text-align:center;
+    padding-top: 15px;
+
+}
+form{
+    width:400px;
+    margin-left: 20px;
+}
+form label{
+    diplay:flex;
+    margin-left:25%;
+    margin-top:  50px;
+    font: size 15px;
+
+}
+.p1{
+    text-align: center;
+  
+    font-size: 15;
+
+   
+    
+
+}
+.p{ text-align: center;
+    padding-top: 20px;
+    font-size:15px;
+}
+
+form input{
+    width: 100%;
+    padding:7px;
+    border: none;
+    border: 1px solid grey;
+    margin-left: 25%;
+
+
+}
+input[type="submit"]{
+    width:300px;
+    height:35px;
+    margin-top:10px;
+    border:none;
+    border-radius:5px;
+    background-color:blue;
+    color:white;
+    font-size:15px ;
+    margin-left: 38%;
+}
