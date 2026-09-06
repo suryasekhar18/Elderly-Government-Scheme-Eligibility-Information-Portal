@@ -49,7 +49,7 @@ For each government scheme, the portal displays:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/BlueLockDev/Elderly-Government-Scheme-Eligibility-Information-Portal.git
+git clone https://github.com/suryasekhar18/Elderly-Government-Scheme-Eligibility-Information-Portal.git
 ```
 
 2. Navigate to the project directory:
@@ -78,7 +78,10 @@ python -m http.server 8000
 npx http-server
 ```
 
-Then visit `http://localhost:8000/images/front.html`
+Then visit `http://localhost:8000/images/front.html` when the server is
+started from `finalproject`, or
+`http://localhost:8000/finalproject/images/front.html` when it is started from
+the repository root.
 
 ## 📂 Project Structure
 
